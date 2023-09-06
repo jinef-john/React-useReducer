@@ -7,7 +7,7 @@ To create the fake API I am using [json-server](
     npm install -g json-server
     json-server --watch data/data/questions --port 8000
 
-The app is deployed on Netlify and can be accessed [here](https://react-usereducer-tut.netlify.app/)
+The app is deployed on Netlify and can be accessed [useReducer React Quiz](https://the-react-quiz.netlify.app/)
 
 To run the app locally, clone the repo and run the following commands:
 
